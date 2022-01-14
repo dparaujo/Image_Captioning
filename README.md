@@ -1,6 +1,6 @@
 # Geração de Legendas de Imagens em Idioma Português
 
-(acadêmico) - Cognição Visual
+Cognição Visual (acadêmico)
 
 # Descrição
 
